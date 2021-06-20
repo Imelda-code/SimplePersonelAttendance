@@ -1,9 +1,4 @@
 Monday, 07th September 2020
-A Report on the creation of a form interfaced with a webcam, using python
-Language
-Presented by:
-- KEPTE TCHOUGOUA IMELDA
-- TCHAPMI NONO CELESTE
 I. Introduction
 The aim of this task was to create a program that will automatically take image captures of a user in the
 process of filling a form. The captures should be continuously taken at a time interval of five (5) seconds
